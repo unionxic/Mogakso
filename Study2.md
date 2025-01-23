@@ -96,6 +96,8 @@
 
 YOLO를 활용한 Violence Detection은 실시간으로 영상에서 특정 행동을 탐지할 수 있는 효과적인 방법입니다. 하지만 Violence는 연속된 동작을 포함하기 때문에 추가적인 분석 기법을 함께 적용하면 더 높은 정확도를 얻을 수 있습니다.
 
+---
+## 6. Compare YOLO11 and YOLOv8 for instance segmentation
 <img width="963" alt="스크린샷 2025-01-23 20 18 54" src="https://github.com/user-attachments/assets/7ffe2374-2fff-4b5a-8713-ecf867735b91" />
 
 
